@@ -1,0 +1,13 @@
+whois
+dnsutils
+traceroute
+nmap
+netcat
+telnet
+net-tools
+tcpdump
+wireshark
+tcpreplay
+iperf3
+nuttcp
+
